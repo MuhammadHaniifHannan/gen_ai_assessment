@@ -1,0 +1,829 @@
+Question,Answer
+What is the company's mission statement or core values?,"Okay, here's a breakdown of the provided text data, attempting to answer your questions where information is available:
+
+**1. What is the company's mission statement or core values?**
+
+*   **3M:**
+    *   ""At 3M, we discover and innovate in nearly every industry to help solve problems around the world.""
+
+*   **SAP:**
+    *   ""Bring out the best in every business.""
+
+*   **Hyundai:**
+
+    *   Global brand vision: ""Progress for Humanity""
+    *   Core Values:
+        *   Customer Centricity
+        *   Challenge
+        *   Collaboration
+        *   People
+        *   Global Mindset
+
+*   **PayPal:**
+
+    *   Make better connections with more customers, so you can drive revenue growth
+    *   Helping merchants to accept digital payments for online money transfers.
+
+*   **Honda:**
+
+    *   ""creating a society that is useful to people""
+    *   ""Expand this joy even further through developing new areas of mobility and engaging in open innovation activities.""
+    *   ""The Power of Dreams""
+
+**2. What products or services does the company offer?**
+
+*   **3M:**
+    *   Abrasives
+    *   Adhesives, Sealants & Fillers
+    *   Advanced Materials
+    *   Automotive Parts & Hardware
+    *   Building Materials
+    *   Cleaning Supplies
+    *   Coatings
+    *   Communications
+    *   Compounds & Polishes
+    *   Dental & Orthodontics
+    *   Electrical
+    *   Electronics Materials & Components
+    *   Films & Sheeting
+    *   Filtration & Separation
+    *   Home
+    *   Insulation
+    *   Lab Supplies & Testing
+    *   Labels
+    *   Lubricants
+    *   Medical
+    *   Office Supplies
+    *   Personal Protective Equipment
+    *   Signage & Marking
+    *   Tapes
+    *   Tools & Equipment
+
+*   **SAP:**
+    *   Enterprise Resource Planning (ERP) software
+    *   Supply Chain Management (SCM) solutions
+    *   Customer Experience (CX) solutions
+    *   Human Capital Management (HCM) solutions
+    *   Business Technology Platform (SAP BTP)
+    *   Sustainability solutions
+    *   Business AI
+
+*   **Hyundai:**
+    *   Automobiles
+    *   Motorcycles
+    *   Power products (engines, tillers, generators, etc.)
+    *   Outboard engines
+    *   Aircraft
+    *   Fuel cell vehicles
+    *   Battery systems
+
+*   **PayPal:**
+
+    *   A payment services provider in India. Our services allow you to send payments to anyone with a PayPal account.
+    *   Accept payments.
+    *   Make Payments.
+    *   Manage risk.
+    *   Streamline operations.
+
+*   **Honda:**
+
+    *   ""Mobility Products""
+
+**3. When was the company founded, and who were the founders?**
+
+*   **3M:** The company founded Dr. J. Danley Budd, Henry. S. Bryan, William A. McGonagle, John Dwan and Hermon W. Cable
+*   **SAP:** Started with five entrepreneurial programmers who founded SAP in 1972
+*   **Hyundai:** Founding date not stated.
+*   **PayPal:** Founding date not stated.
+*   **Honda:** Founding date not stated.
+
+**4. Where is the company's headquarters located?**
+
+*   **3M:** 3M Center in Maplewood, MN (USA)
+*   **SAP:** Dietmar-Hopp-Allee 16 69190 Walldorf Germany
+*   **Hyundai:**
+    *   **India office:** Gurugram, Haryana, India. (However, the company is a wholly-owned subsidiary of Hyundai Motor Company, so the ultimate headquarters would be in South Korea).
+*   **PayPal:** Founding date not stated.
+*   **Honda:** Founding date not stated.
+
+**5. Who are the key executives or leadership team members?**
+
+*   **3M:** Vice President of Strategic Sourcing and Chief Sustainability Officer
+
+*   **SAP:**
+
+    *   CFO: Dominik Asam
+    *   COO: Sebastian Steinhaeuser
+    *   Chief Product Officer Data & Analytics: Irfan Khan
+    *   Member of the SAP Executive Board: Muhammad Alam
+*   **Hyundai:** Managing Director: Mr. Unsoo Kim.
+
+*   **PayPal:** Contact names of PayPal key executives not stated.
+*   **Honda:** Key Executive of the Brand are not identified.
+
+**6. Has the company received any notable awards or recognitions?**
+
+*   **3M:** The company is a leader in Sustainability for decades.
+
+*   **SAP:**
+    *   Named a Leader in the Gartner Magic Quadrant for Cloud ERP.
+    *   A Leader in the Gartner Magic Quadrant for Financial Planning Software.
+    *   A Visionary in the Gartner Magic Quadrant for Analytics and Business Intelligence Platforms.
+    *   Mentioned as a Leader in IDC MarketScape reports.
+
+*   **Hyundai:**
+    *Has earned various awards, including the EXIM Award and EEPC Gold Trophy
+
+*   **PayPal:** Awards not stated.
+*   **Honda:** Awards not stated.
+"
+What products or services does the company offer?,"Okay, here's a breakdown of the provided text data, attempting to answer your questions where information is available:
+
+**1. What is the company's mission statement or core values?**
+
+*   **3M:**
+    *   ""At 3M, we discover and innovate in nearly every industry to help solve problems around the world.""
+
+*   **SAP:**
+    *   ""Bring out the best in every business.""
+
+*   **Hyundai:**
+
+    *   Global brand vision: ""Progress for Humanity""
+    *   Core Values:
+        *   Customer Centricity
+        *   Challenge
+        *   Collaboration
+        *   People
+        *   Global Mindset
+
+*   **PayPal:**
+
+    *   Make better connections with more customers, so you can drive revenue growth
+    *   Helping merchants to accept digital payments for online money transfers.
+
+*   **Honda:**
+
+    *   ""creating a society that is useful to people""
+    *   ""Expand this joy even further through developing new areas of mobility and engaging in open innovation activities.""
+    *   ""The Power of Dreams""
+
+**2. What products or services does the company offer?**
+
+*   **3M:**
+    *   Abrasives
+    *   Adhesives, Sealants & Fillers
+    *   Advanced Materials
+    *   Automotive Parts & Hardware
+    *   Building Materials
+    *   Cleaning Supplies
+    *   Coatings
+    *   Communications
+    *   Compounds & Polishes
+    *   Dental & Orthodontics
+    *   Electrical
+    *   Electronics Materials & Components
+    *   Films & Sheeting
+    *   Filtration & Separation
+    *   Home
+    *   Insulation
+    *   Lab Supplies & Testing
+    *   Labels
+    *   Lubricants
+    *   Medical
+    *   Office Supplies
+    *   Personal Protective Equipment
+    *   Signage & Marking
+    *   Tapes
+    *   Tools & Equipment
+
+*   **SAP:**
+    *   Enterprise Resource Planning (ERP) software
+    *   Supply Chain Management (SCM) solutions
+    *   Customer Experience (CX) solutions
+    *   Human Capital Management (HCM) solutions
+    *   Business Technology Platform (SAP BTP)
+    *   Sustainability solutions
+    *   Business AI
+
+*   **Hyundai:**
+    *   Automobiles
+    *   Motorcycles
+    *   Power products (engines, tillers, generators, etc.)
+    *   Outboard engines
+    *   Aircraft
+    *   Fuel cell vehicles
+    *   Battery systems
+
+*   **PayPal:**
+
+    *   A payment services provider in India. Our services allow you to send payments to anyone with a PayPal account.
+    *   Accept payments.
+    *   Make Payments.
+    *   Manage risk.
+    *   Streamline operations.
+
+*   **Honda:**
+
+    *   ""Mobility Products""
+
+**3. When was the company founded, and who were the founders?**
+
+*   **3M:** The company founded Dr. J. Danley Budd, Henry. S. Bryan, William A. McGonagle, John Dwan and Hermon W. Cable
+*   **SAP:** Started with five entrepreneurial programmers who founded SAP in 1972
+*   **Hyundai:** Founding date not stated.
+*   **PayPal:** Founding date not stated.
+*   **Honda:** Founding date not stated.
+
+**4. Where is the company's headquarters located?**
+
+*   **3M:** 3M Center in Maplewood, MN (USA)
+*   **SAP:** Dietmar-Hopp-Allee 16 69190 Walldorf Germany
+*   **Hyundai:**
+    *   **India office:** Gurugram, Haryana, India. (However, the company is a wholly-owned subsidiary of Hyundai Motor Company, so the ultimate headquarters would be in South Korea).
+*   **PayPal:** Founding date not stated.
+*   **Honda:** Founding date not stated.
+
+**5. Who are the key executives or leadership team members?**
+
+*   **3M:** Vice President of Strategic Sourcing and Chief Sustainability Officer
+
+*   **SAP:**
+
+    *   CFO: Dominik Asam
+    *   COO: Sebastian Steinhaeuser
+    *   Chief Product Officer Data & Analytics: Irfan Khan
+    *   Member of the SAP Executive Board: Muhammad Alam
+*   **Hyundai:** Managing Director: Mr. Unsoo Kim.
+
+*   **PayPal:** Contact names of PayPal key executives not stated.
+*   **Honda:** Key Executive of the Brand are not identified.
+
+**6. Has the company received any notable awards or recognitions?**
+
+*   **3M:** The company is a leader in Sustainability for decades.
+
+*   **SAP:**
+    *   Named a Leader in the Gartner Magic Quadrant for Cloud ERP.
+    *   A Leader in the Gartner Magic Quadrant for Financial Planning Software.
+    *   A Visionary in the Gartner Magic Quadrant for Analytics and Business Intelligence Platforms.
+    *   Mentioned as a Leader in IDC MarketScape reports.
+
+*   **Hyundai:**
+    *Has earned various awards, including the EXIM Award and EEPC Gold Trophy
+
+*   **PayPal:** Awards not stated.
+*   **Honda:** Awards not stated.
+"
+"When was the company founded, and who were the founders?","Okay, here's a breakdown of the provided text data, attempting to answer your questions where information is available:
+
+**1. What is the company's mission statement or core values?**
+
+*   **3M:**
+    *   ""At 3M, we discover and innovate in nearly every industry to help solve problems around the world.""
+
+*   **SAP:**
+    *   ""Bring out the best in every business.""
+
+*   **Hyundai:**
+
+    *   Global brand vision: ""Progress for Humanity""
+    *   Core Values:
+        *   Customer Centricity
+        *   Challenge
+        *   Collaboration
+        *   People
+        *   Global Mindset
+
+*   **PayPal:**
+
+    *   Make better connections with more customers, so you can drive revenue growth
+    *   Helping merchants to accept digital payments for online money transfers.
+
+*   **Honda:**
+
+    *   ""creating a society that is useful to people""
+    *   ""Expand this joy even further through developing new areas of mobility and engaging in open innovation activities.""
+    *   ""The Power of Dreams""
+
+**2. What products or services does the company offer?**
+
+*   **3M:**
+    *   Abrasives
+    *   Adhesives, Sealants & Fillers
+    *   Advanced Materials
+    *   Automotive Parts & Hardware
+    *   Building Materials
+    *   Cleaning Supplies
+    *   Coatings
+    *   Communications
+    *   Compounds & Polishes
+    *   Dental & Orthodontics
+    *   Electrical
+    *   Electronics Materials & Components
+    *   Films & Sheeting
+    *   Filtration & Separation
+    *   Home
+    *   Insulation
+    *   Lab Supplies & Testing
+    *   Labels
+    *   Lubricants
+    *   Medical
+    *   Office Supplies
+    *   Personal Protective Equipment
+    *   Signage & Marking
+    *   Tapes
+    *   Tools & Equipment
+
+*   **SAP:**
+    *   Enterprise Resource Planning (ERP) software
+    *   Supply Chain Management (SCM) solutions
+    *   Customer Experience (CX) solutions
+    *   Human Capital Management (HCM) solutions
+    *   Business Technology Platform (SAP BTP)
+    *   Sustainability solutions
+    *   Business AI
+
+*   **Hyundai:**
+    *   Automobiles
+    *   Motorcycles
+    *   Power products (engines, tillers, generators, etc.)
+    *   Outboard engines
+    *   Aircraft
+    *   Fuel cell vehicles
+    *   Battery systems
+
+*   **PayPal:**
+
+    *   A payment services provider in India. Our services allow you to send payments to anyone with a PayPal account.
+    *   Accept payments.
+    *   Make Payments.
+    *   Manage risk.
+    *   Streamline operations.
+
+*   **Honda:**
+
+    *   ""Mobility Products""
+
+**3. When was the company founded, and who were the founders?**
+
+*   **3M:** The company founded Dr. J. Danley Budd, Henry. S. Bryan, William A. McGonagle, John Dwan and Hermon W. Cable
+*   **SAP:** Started with five entrepreneurial programmers who founded SAP in 1972
+*   **Hyundai:** Founding date not stated.
+*   **PayPal:** Founding date not stated.
+*   **Honda:** Founding date not stated.
+
+**4. Where is the company's headquarters located?**
+
+*   **3M:** 3M Center in Maplewood, MN (USA)
+*   **SAP:** Dietmar-Hopp-Allee 16 69190 Walldorf Germany
+*   **Hyundai:**
+    *   **India office:** Gurugram, Haryana, India. (However, the company is a wholly-owned subsidiary of Hyundai Motor Company, so the ultimate headquarters would be in South Korea).
+*   **PayPal:** Founding date not stated.
+*   **Honda:** Founding date not stated.
+
+**5. Who are the key executives or leadership team members?**
+
+*   **3M:** Vice President of Strategic Sourcing and Chief Sustainability Officer
+
+*   **SAP:**
+
+    *   CFO: Dominik Asam
+    *   COO: Sebastian Steinhaeuser
+    *   Chief Product Officer Data & Analytics: Irfan Khan
+    *   Member of the SAP Executive Board: Muhammad Alam
+*   **Hyundai:** Managing Director: Mr. Unsoo Kim.
+
+*   **PayPal:** Contact names of PayPal key executives not stated.
+*   **Honda:** Key Executive of the Brand are not identified.
+
+**6. Has the company received any notable awards or recognitions?**
+
+*   **3M:** The company is a leader in Sustainability for decades.
+
+*   **SAP:**
+    *   Named a Leader in the Gartner Magic Quadrant for Cloud ERP.
+    *   A Leader in the Gartner Magic Quadrant for Financial Planning Software.
+    *   A Visionary in the Gartner Magic Quadrant for Analytics and Business Intelligence Platforms.
+    *   Mentioned as a Leader in IDC MarketScape reports.
+
+*   **Hyundai:**
+    *Has earned various awards, including the EXIM Award and EEPC Gold Trophy
+
+*   **PayPal:** Awards not stated.
+*   **Honda:** Awards not stated.
+"
+Where is the company's headquarters located?,"Okay, here's a breakdown of the provided text data, attempting to answer your questions where information is available:
+
+**1. What is the company's mission statement or core values?**
+
+*   **3M:**
+    *   ""At 3M, we discover and innovate in nearly every industry to help solve problems around the world.""
+
+*   **SAP:**
+    *   ""Bring out the best in every business.""
+
+*   **Hyundai:**
+
+    *   Global brand vision: ""Progress for Humanity""
+    *   Core Values:
+        *   Customer Centricity
+        *   Challenge
+        *   Collaboration
+        *   People
+        *   Global Mindset
+
+*   **PayPal:**
+
+    *   Make better connections with more customers, so you can drive revenue growth
+    *   Helping merchants to accept digital payments for online money transfers.
+
+*   **Honda:**
+
+    *   ""creating a society that is useful to people""
+    *   ""Expand this joy even further through developing new areas of mobility and engaging in open innovation activities.""
+    *   ""The Power of Dreams""
+
+**2. What products or services does the company offer?**
+
+*   **3M:**
+    *   Abrasives
+    *   Adhesives, Sealants & Fillers
+    *   Advanced Materials
+    *   Automotive Parts & Hardware
+    *   Building Materials
+    *   Cleaning Supplies
+    *   Coatings
+    *   Communications
+    *   Compounds & Polishes
+    *   Dental & Orthodontics
+    *   Electrical
+    *   Electronics Materials & Components
+    *   Films & Sheeting
+    *   Filtration & Separation
+    *   Home
+    *   Insulation
+    *   Lab Supplies & Testing
+    *   Labels
+    *   Lubricants
+    *   Medical
+    *   Office Supplies
+    *   Personal Protective Equipment
+    *   Signage & Marking
+    *   Tapes
+    *   Tools & Equipment
+
+*   **SAP:**
+    *   Enterprise Resource Planning (ERP) software
+    *   Supply Chain Management (SCM) solutions
+    *   Customer Experience (CX) solutions
+    *   Human Capital Management (HCM) solutions
+    *   Business Technology Platform (SAP BTP)
+    *   Sustainability solutions
+    *   Business AI
+
+*   **Hyundai:**
+    *   Automobiles
+    *   Motorcycles
+    *   Power products (engines, tillers, generators, etc.)
+    *   Outboard engines
+    *   Aircraft
+    *   Fuel cell vehicles
+    *   Battery systems
+
+*   **PayPal:**
+
+    *   A payment services provider in India. Our services allow you to send payments to anyone with a PayPal account.
+    *   Accept payments.
+    *   Make Payments.
+    *   Manage risk.
+    *   Streamline operations.
+
+*   **Honda:**
+
+    *   ""Mobility Products""
+
+**3. When was the company founded, and who were the founders?**
+
+*   **3M:** The company founded Dr. J. Danley Budd, Henry. S. Bryan, William A. McGonagle, John Dwan and Hermon W. Cable
+*   **SAP:** Started with five entrepreneurial programmers who founded SAP in 1972
+*   **Hyundai:** Founding date not stated.
+*   **PayPal:** Founding date not stated.
+*   **Honda:** Founding date not stated.
+
+**4. Where is the company's headquarters located?**
+
+*   **3M:** 3M Center in Maplewood, MN (USA)
+*   **SAP:** Dietmar-Hopp-Allee 16 69190 Walldorf Germany
+*   **Hyundai:**
+    *   **India office:** Gurugram, Haryana, India. (However, the company is a wholly-owned subsidiary of Hyundai Motor Company, so the ultimate headquarters would be in South Korea).
+*   **PayPal:** Founding date not stated.
+*   **Honda:** Founding date not stated.
+
+**5. Who are the key executives or leadership team members?**
+
+*   **3M:** Vice President of Strategic Sourcing and Chief Sustainability Officer
+
+*   **SAP:**
+
+    *   CFO: Dominik Asam
+    *   COO: Sebastian Steinhaeuser
+    *   Chief Product Officer Data & Analytics: Irfan Khan
+    *   Member of the SAP Executive Board: Muhammad Alam
+*   **Hyundai:** Managing Director: Mr. Unsoo Kim.
+
+*   **PayPal:** Contact names of PayPal key executives not stated.
+*   **Honda:** Key Executive of the Brand are not identified.
+
+**6. Has the company received any notable awards or recognitions?**
+
+*   **3M:** The company is a leader in Sustainability for decades.
+
+*   **SAP:**
+    *   Named a Leader in the Gartner Magic Quadrant for Cloud ERP.
+    *   A Leader in the Gartner Magic Quadrant for Financial Planning Software.
+    *   A Visionary in the Gartner Magic Quadrant for Analytics and Business Intelligence Platforms.
+    *   Mentioned as a Leader in IDC MarketScape reports.
+
+*   **Hyundai:**
+    *Has earned various awards, including the EXIM Award and EEPC Gold Trophy
+
+*   **PayPal:** Awards not stated.
+*   **Honda:** Awards not stated.
+"
+Who are the key executives or leadership team members?,"Okay, here's a breakdown of the provided text data, attempting to answer your questions where information is available:
+
+**1. What is the company's mission statement or core values?**
+
+*   **3M:**
+    *   ""At 3M, we discover and innovate in nearly every industry to help solve problems around the world.""
+
+*   **SAP:**
+    *   ""Bring out the best in every business.""
+
+*   **Hyundai:**
+
+    *   Global brand vision: ""Progress for Humanity""
+    *   Core Values:
+        *   Customer Centricity
+        *   Challenge
+        *   Collaboration
+        *   People
+        *   Global Mindset
+
+*   **PayPal:**
+
+    *   Make better connections with more customers, so you can drive revenue growth
+    *   Helping merchants to accept digital payments for online money transfers.
+
+*   **Honda:**
+
+    *   ""creating a society that is useful to people""
+    *   ""Expand this joy even further through developing new areas of mobility and engaging in open innovation activities.""
+    *   ""The Power of Dreams""
+
+**2. What products or services does the company offer?**
+
+*   **3M:**
+    *   Abrasives
+    *   Adhesives, Sealants & Fillers
+    *   Advanced Materials
+    *   Automotive Parts & Hardware
+    *   Building Materials
+    *   Cleaning Supplies
+    *   Coatings
+    *   Communications
+    *   Compounds & Polishes
+    *   Dental & Orthodontics
+    *   Electrical
+    *   Electronics Materials & Components
+    *   Films & Sheeting
+    *   Filtration & Separation
+    *   Home
+    *   Insulation
+    *   Lab Supplies & Testing
+    *   Labels
+    *   Lubricants
+    *   Medical
+    *   Office Supplies
+    *   Personal Protective Equipment
+    *   Signage & Marking
+    *   Tapes
+    *   Tools & Equipment
+
+*   **SAP:**
+    *   Enterprise Resource Planning (ERP) software
+    *   Supply Chain Management (SCM) solutions
+    *   Customer Experience (CX) solutions
+    *   Human Capital Management (HCM) solutions
+    *   Business Technology Platform (SAP BTP)
+    *   Sustainability solutions
+    *   Business AI
+
+*   **Hyundai:**
+    *   Automobiles
+    *   Motorcycles
+    *   Power products (engines, tillers, generators, etc.)
+    *   Outboard engines
+    *   Aircraft
+    *   Fuel cell vehicles
+    *   Battery systems
+
+*   **PayPal:**
+
+    *   A payment services provider in India. Our services allow you to send payments to anyone with a PayPal account.
+    *   Accept payments.
+    *   Make Payments.
+    *   Manage risk.
+    *   Streamline operations.
+
+*   **Honda:**
+
+    *   ""Mobility Products""
+
+**3. When was the company founded, and who were the founders?**
+
+*   **3M:** The company founded Dr. J. Danley Budd, Henry. S. Bryan, William A. McGonagle, John Dwan and Hermon W. Cable
+*   **SAP:** Started with five entrepreneurial programmers who founded SAP in 1972
+*   **Hyundai:** Founding date not stated.
+*   **PayPal:** Founding date not stated.
+*   **Honda:** Founding date not stated.
+
+**4. Where is the company's headquarters located?**
+
+*   **3M:** 3M Center in Maplewood, MN (USA)
+*   **SAP:** Dietmar-Hopp-Allee 16 69190 Walldorf Germany
+*   **Hyundai:**
+    *   **India office:** Gurugram, Haryana, India. (However, the company is a wholly-owned subsidiary of Hyundai Motor Company, so the ultimate headquarters would be in South Korea).
+*   **PayPal:** Founding date not stated.
+*   **Honda:** Founding date not stated.
+
+**5. Who are the key executives or leadership team members?**
+
+*   **3M:** Vice President of Strategic Sourcing and Chief Sustainability Officer
+
+*   **SAP:**
+
+    *   CFO: Dominik Asam
+    *   COO: Sebastian Steinhaeuser
+    *   Chief Product Officer Data & Analytics: Irfan Khan
+    *   Member of the SAP Executive Board: Muhammad Alam
+*   **Hyundai:** Managing Director: Mr. Unsoo Kim.
+
+*   **PayPal:** Contact names of PayPal key executives not stated.
+*   **Honda:** Key Executive of the Brand are not identified.
+
+**6. Has the company received any notable awards or recognitions?**
+
+*   **3M:** The company is a leader in Sustainability for decades.
+
+*   **SAP:**
+    *   Named a Leader in the Gartner Magic Quadrant for Cloud ERP.
+    *   A Leader in the Gartner Magic Quadrant for Financial Planning Software.
+    *   A Visionary in the Gartner Magic Quadrant for Analytics and Business Intelligence Platforms.
+    *   Mentioned as a Leader in IDC MarketScape reports.
+
+*   **Hyundai:**
+    *Has earned various awards, including the EXIM Award and EEPC Gold Trophy
+
+*   **PayPal:** Awards not stated.
+*   **Honda:** Awards not stated.
+"
+Has the company received any notable awards or recognitions?,"Okay, here's a breakdown of the provided text data, attempting to answer your questions where information is available:
+
+**1. What is the company's mission statement or core values?**
+
+*   **3M:**
+    *   ""At 3M, we discover and innovate in nearly every industry to help solve problems around the world.""
+
+*   **SAP:**
+    *   ""Bring out the best in every business.""
+
+*   **Hyundai:**
+
+    *   Global brand vision: ""Progress for Humanity""
+    *   Core Values:
+        *   Customer Centricity
+        *   Challenge
+        *   Collaboration
+        *   People
+        *   Global Mindset
+
+*   **PayPal:**
+
+    *   Make better connections with more customers, so you can drive revenue growth
+    *   Helping merchants to accept digital payments for online money transfers.
+
+*   **Honda:**
+
+    *   ""creating a society that is useful to people""
+    *   ""Expand this joy even further through developing new areas of mobility and engaging in open innovation activities.""
+    *   ""The Power of Dreams""
+
+**2. What products or services does the company offer?**
+
+*   **3M:**
+    *   Abrasives
+    *   Adhesives, Sealants & Fillers
+    *   Advanced Materials
+    *   Automotive Parts & Hardware
+    *   Building Materials
+    *   Cleaning Supplies
+    *   Coatings
+    *   Communications
+    *   Compounds & Polishes
+    *   Dental & Orthodontics
+    *   Electrical
+    *   Electronics Materials & Components
+    *   Films & Sheeting
+    *   Filtration & Separation
+    *   Home
+    *   Insulation
+    *   Lab Supplies & Testing
+    *   Labels
+    *   Lubricants
+    *   Medical
+    *   Office Supplies
+    *   Personal Protective Equipment
+    *   Signage & Marking
+    *   Tapes
+    *   Tools & Equipment
+
+*   **SAP:**
+    *   Enterprise Resource Planning (ERP) software
+    *   Supply Chain Management (SCM) solutions
+    *   Customer Experience (CX) solutions
+    *   Human Capital Management (HCM) solutions
+    *   Business Technology Platform (SAP BTP)
+    *   Sustainability solutions
+    *   Business AI
+
+*   **Hyundai:**
+    *   Automobiles
+    *   Motorcycles
+    *   Power products (engines, tillers, generators, etc.)
+    *   Outboard engines
+    *   Aircraft
+    *   Fuel cell vehicles
+    *   Battery systems
+
+*   **PayPal:**
+
+    *   A payment services provider in India. Our services allow you to send payments to anyone with a PayPal account.
+    *   Accept payments.
+    *   Make Payments.
+    *   Manage risk.
+    *   Streamline operations.
+
+*   **Honda:**
+
+    *   ""Mobility Products""
+
+**3. When was the company founded, and who were the founders?**
+
+*   **3M:** The company founded Dr. J. Danley Budd, Henry. S. Bryan, William A. McGonagle, John Dwan and Hermon W. Cable
+*   **SAP:** Started with five entrepreneurial programmers who founded SAP in 1972
+*   **Hyundai:** Founding date not stated.
+*   **PayPal:** Founding date not stated.
+*   **Honda:** Founding date not stated.
+
+**4. Where is the company's headquarters located?**
+
+*   **3M:** 3M Center in Maplewood, MN (USA)
+*   **SAP:** Dietmar-Hopp-Allee 16 69190 Walldorf Germany
+*   **Hyundai:**
+    *   **India office:** Gurugram, Haryana, India. (However, the company is a wholly-owned subsidiary of Hyundai Motor Company, so the ultimate headquarters would be in South Korea).
+*   **PayPal:** Founding date not stated.
+*   **Honda:** Founding date not stated.
+
+**5. Who are the key executives or leadership team members?**
+
+*   **3M:** Vice President of Strategic Sourcing and Chief Sustainability Officer
+
+*   **SAP:**
+
+    *   CFO: Dominik Asam
+    *   COO: Sebastian Steinhaeuser
+    *   Chief Product Officer Data & Analytics: Irfan Khan
+    *   Member of the SAP Executive Board: Muhammad Alam
+*   **Hyundai:** Managing Director: Mr. Unsoo Kim.
+
+*   **PayPal:** Contact names of PayPal key executives not stated.
+*   **Honda:** Key Executive of the Brand are not identified.
+
+**6. Has the company received any notable awards or recognitions?**
+
+*   **3M:** The company is a leader in Sustainability for decades.
+
+*   **SAP:**
+    *   Named a Leader in the Gartner Magic Quadrant for Cloud ERP.
+    *   A Leader in the Gartner Magic Quadrant for Financial Planning Software.
+    *   A Visionary in the Gartner Magic Quadrant for Analytics and Business Intelligence Platforms.
+    *   Mentioned as a Leader in IDC MarketScape reports.
+
+*   **Hyundai:**
+    *Has earned various awards, including the EXIM Award and EEPC Gold Trophy
+
+*   **PayPal:** Awards not stated.
+*   **Honda:** Awards not stated.
+"
